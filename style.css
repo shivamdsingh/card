@@ -1,0 +1,88 @@
+html,body
+{
+    background-color: whitesmoke;
+    font-family: 'Roboto';
+
+    
+}
+
+.container
+{
+    
+   height: 138px;
+   width: 457px;
+   border: 2px solid blue;
+
+   
+    
+}
+.card
+{
+    
+    display: flex;
+    height: 138px;
+    margin: 4px;
+
+    
+}
+
+img{
+    height: 20px;
+    width: 20px;
+}
+
+
+.profile{
+    height: 130px;
+    width: 130px;
+}
+
+.icons
+{
+    display: flex;
+    
+    
+
+}
+
+.icons > p
+{
+    margin-left: 14px;
+    position: relative;
+    bottom: 15px;
+    font-size: 15px;
+    color: #858991;
+
+
+    
+}
+
+.icons >img
+{
+    
+}
+
+.right
+{
+    margin: 14px;
+}
+
+.retweet,.like
+{
+    margin-left: 24px;
+}
+
+.useremail
+{
+    font-size: 20px;
+    color: #000000;
+    font-weight: bold;
+}
+
+p{
+    color: #000000;
+    font-weight: normal;
+
+
+}
+
