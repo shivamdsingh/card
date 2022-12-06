@@ -35,6 +35,7 @@ img{
 .profile{
     height: 130px;
     width: 130px;
+    
 }
 
 .icons
@@ -57,14 +58,12 @@ img{
     
 }
 
-.icons >img
-{
-    
-}
+
 
 .right
 {
-    margin: 14px;
+   margin-left: 14px;
+   margin-top: 4px;
 }
 
 .retweet,.like
@@ -82,7 +81,12 @@ img{
 p{
     color: #000000;
     font-weight: normal;
+    font-size: 20px;
+
 
 
 }
+
+
+
 
