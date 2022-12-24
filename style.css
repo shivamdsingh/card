@@ -35,13 +35,13 @@ img{
 .profile{
     height: 130px;
     width: 130px;
-    
+
 }
 
 .icons
 {
     display: flex;
-    
+    margin-top: 24px;
     
 
 }
@@ -78,6 +78,7 @@ img{
     font-weight: bold;
 }
 
+
 p{
     color: #000000;
     font-weight: normal;
@@ -86,6 +87,15 @@ p{
 
 
 }
+
+main>p{
+    color: #000000;
+    font-weight: normal;
+    margin-top: 14px;
+ 
+}
+
+
 
 
 
